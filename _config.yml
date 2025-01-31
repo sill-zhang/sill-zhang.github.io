@@ -102,7 +102,7 @@ theme: landscape
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://kkgithub.com/sill-zhang/sill-zhang.github.io.git
+  repo: https://github.com/sill-zhang/sill-zhang.github.io.git
   branch: gh-pages
-  message: Site updated: {{ now('YYYY-MM-DD HH:mm:ss') }}
+  message: 'Site updated: {{ now('YYYY-MM-DD HH:mm:ss') }}'
   token: $github-pages
