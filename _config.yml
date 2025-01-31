@@ -103,4 +103,5 @@ theme: landscape
 deploy:
   type: git
   repository:
-    github: https://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@github.com/sill-zhang/sill-zhang.github.io.git,pages
+    # github: https://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@github.com/sill-zhang/sill-zhang.github.io.git,pages
+    github: https://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@github.com/sill-zhang/sill-zhang.github.io/tree/pages
