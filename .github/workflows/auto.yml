@@ -1,0 +1,9 @@
+name: AnotherOxy's Blog CI/CD
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '*.json'
+      - '**.yml'
+      - '**/source/**'
