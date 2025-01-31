@@ -104,5 +104,5 @@ deploy:
   type: git
   repo: https://github.com/sill-zhang/sill-zhang.github.io.git
   branch: gh-pages
-  message: 'Site updated: {{ now('YYYY-MM-DD HH:mm:ss') }}'
+  message: 'Site updated'
   token: $github-pages
